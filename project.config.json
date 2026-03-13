@@ -2,7 +2,6 @@
   "miniprogramRoot": "dist/",
   "projectname": "orange",
   "description": "租客小程序",
-  "appid": "wx932c2a8adc92d1b7",
   "setting": {
     "urlCheck": true,
     "es6": false,
